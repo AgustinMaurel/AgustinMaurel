@@ -32,7 +32,7 @@
 <div style="font-family: 'Open Sans'">
 
 ### **Hola!** 👋👋
-Soy full-stack developer, con orientacion a Front-end. Apasionado del mundo IT, su comunidad y todas las posibilidades que brinda.
+Soy Agustin Maurel, full-stack developer, con orientacion a Front-end. Apasionado del mundo IT, su comunidad y todas las posibilidades que brinda.
 Creo firmemente en el trabajo en equipo y el aprendizaje mutuo mediante el intercambio de ideas 🤝 !.
   
 Con muchas ganas de seguir aprendiendo y creciendo profesionalmente.
