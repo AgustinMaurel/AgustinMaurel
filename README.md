@@ -37,7 +37,7 @@ Creo firmemente en el trabajo en equipo y el aprendizaje mutuo mediante el inter
   
 Con muchas ganas de seguir aprendiendo y creciendo profesionalmente.
   
-Actualmente me encuentro estudiando y aprendiendo :
+Actualmente me encuentro estudiando :
 - Tailwind
 - Typescript
 - Scrum
