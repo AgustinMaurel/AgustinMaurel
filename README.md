@@ -35,16 +35,14 @@
 <div style="font-family: 'Open Sans'">
 
 ### **Hola!** 👋👋
-Soy Agustin Maurel, full-stack developer, con orientacion a Front-end. Apasionado del mundo IT, su comunidad y todas las posibilidades que brinda.
-Creo firmemente en el trabajo en equipo y el aprendizaje mutuo mediante el intercambio de ideas 🤝 !.
+Soy Agustin Maurel, full-stack developer, con orientacion y mucho a Front-end. Apasionado del mundo IT, su comunidad y todas las posibilidades que brinda.
+Creo firmemente en el trabajo en equipo y el aprendizaje mutuo mediante el intercambio de ideas 🤝 !. Busco un
+desafió para continuar aprendiendo y creciendo que contribuya a resolver cualquier problema o necesidad de las personas.
   
-Con muchas ganas de seguir aprendiendo y creciendo profesionalmente.
   
 Actualmente me encuentro estudiando :
-- Tailwind
 - Typescript
-- Scrum
-- Firebase
+
 
 
 
